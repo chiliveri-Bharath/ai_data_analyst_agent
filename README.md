@@ -156,6 +156,13 @@ http://localhost:8501
 ## 📷 Demo
 
 👉 Add:
+<img width="1765" height="524" alt="image" src="https://github.com/user-attachments/assets/12e5654b-3085-496c-9564-b61f02a6fc5b" />
+<img width="1799" height="709" alt="image" src="https://github.com/user-attachments/assets/a2ee550c-8ff3-4908-a344-6d5343bdb637" />
+<img width="1710" height="444" alt="image" src="https://github.com/user-attachments/assets/a9483969-ce32-410e-9f60-b81b6804d938" />
+
+
+
+
 
 * Screenshots of dashboard
 * Sample charts
