@@ -1,0 +1,38 @@
+# Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+
+venv/
+env/
+
+# Environment variables
+
+.env
+
+# Data files (avoid uploading large datasets)
+
+*.csv
+*.xlsx
+*.json
+
+# Streamlit
+
+.streamlit/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# IDE
+
+.vscode/
