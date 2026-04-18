@@ -159,14 +159,14 @@ http://localhost:8501
 <img width="1765" height="524" alt="image" src="https://github.com/user-attachments/assets/12e5654b-3085-496c-9564-b61f02a6fc5b" />
 <img width="1799" height="709" alt="image" src="https://github.com/user-attachments/assets/a2ee550c-8ff3-4908-a344-6d5343bdb637" />
 <img width="1710" height="444" alt="image" src="https://github.com/user-attachments/assets/a9483969-ce32-410e-9f60-b81b6804d938" />
+<img width="1664" height="665" alt="image" src="https://github.com/user-attachments/assets/95486f97-bfa2-4b28-bc35-7456cd6085b9" />
+<img width="1605" height="687" alt="image" src="https://github.com/user-attachments/assets/947aa70b-7b21-489b-b923-19d30167411f" />
+<img width="1702" height="447" alt="image" src="https://github.com/user-attachments/assets/24a61f21-93fe-4da1-8cbf-07bc646d669a" />
+<img width="1768" height="575" alt="image" src="https://github.com/user-attachments/assets/c1887bb0-bfd6-4593-85af-6ac67f034f57" />
 
 
 
 
-
-* Screenshots of dashboard
-* Sample charts
-* Short demo video
 
 ---
 
